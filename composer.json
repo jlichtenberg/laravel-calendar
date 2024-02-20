@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "php": "^7.4|^8.0",
+        "php": "^7.2|^8.0",
         "illuminate/support": "^8.0"
     },
     "autoload": {
@@ -28,5 +28,5 @@
             }
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
